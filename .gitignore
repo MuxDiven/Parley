@@ -1,0 +1,17 @@
+## IntelliJ IDEA ###
+!**/src/main/**/out/
+!**/src/test/**/out/
+.idea
+### VS Code ###
+.vscode/
+### Mac OS ###
+.DS_Store
+### CLASS ###
+*.class
+### IML ###
+*.iml
+### TEXT ###
+log.txt
+
+### FILES ###
+/stage-4/files/
