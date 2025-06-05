@@ -2,7 +2,7 @@
 
 # Parley
 
-## My group's project for: CS313, Networking and Concurrency
+## My group's project for: CS313, Computer Systems and Concurrency
 
 This is the final submission of our group project for CS313: Networking and Concurrency, completed during our studies at the University of Strathclyde.
 
